@@ -29,3 +29,18 @@ Edit
    ```bash
    git clone https://github.com/your-username/vanilla-js-carousel.git
    cd vanilla-js-carousel
+2. Open index.html in your browser.
+
+No build tools or dependencies — just open and go.
+
+🛠 Technologies
+HTML5
+
+CSS3
+
+JavaScript (ES6+)
+
+📸 Preview
+
+📄 License
+This project is open source and available under the MIT License.
