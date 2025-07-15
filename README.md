@@ -2,7 +2,6 @@
 
 A simple and responsive image carousel built using HTML, CSS, and vanilla JavaScript — no external libraries or frameworks required.
 
-![Screenshot](https://picsum.photos/seed/carousel/600/300)
 
 ## Features
 
