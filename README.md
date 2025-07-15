@@ -4,14 +4,14 @@ A simple and responsive image carousel built using HTML, CSS, and vanilla JavaSc
 
 ![Screenshot](https://picsum.photos/seed/carousel/600/300)
 
-## 🚀 Features
+## Features
 
 - Responsive design
 - Smooth slide transitions
 - Next/previous navigation buttons
 - Built with pure JavaScript (no jQuery or frameworks)
 
-## 📁 Project Structure
+## Project Structure
 
 vanilla-js-carousel/
 ├── index.html
@@ -23,7 +23,7 @@ bash
 Copy
 Edit
 
-## 🧪 How to Use
+## How to Use
 
 1. Clone the repository:
    ```bash
@@ -33,7 +33,7 @@ Edit
 
 No build tools or dependencies — just open and go.
 
-🛠 Technologies
+## Technologies
 HTML5
 
 CSS3
@@ -41,5 +41,5 @@ CSS3
 JavaScript (ES6+)
 
 
-📄 License
+## License
 This project is open source and available under the MIT License.
