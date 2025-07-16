@@ -18,10 +18,6 @@ vanilla-js-carousel/
 ├── script.js
 └── README.md
 
-bash
-Copy
-Edit
-
 ## How to Use
 
 1. Clone the repository:
