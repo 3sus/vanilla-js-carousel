@@ -26,7 +26,7 @@ Edit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/vanilla-js-carousel.git
+   git clone https://github.com/3sus/vanilla-js-carousel.git
    cd vanilla-js-carousel
 2. Open index.html in your browser.
 
